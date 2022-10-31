@@ -6,7 +6,7 @@
 
 Data science libraries :
 
-<img src='src/python.svg' width="30" height="20"> <img src='src/visualstudiocode.svg' width="30" height="20"> <img src='src/pandas.svg' width="30" height="20"> <img src='src/tensorflow.svg' width="30" height="20"> <img src='src/plotly.svg' width="30" height="20"> <img src='src/keras.svg' width="30" height="20"> <img src='src/plotly.svg' width="30" height="20">
+<img src='src/python.svg' width="30" height="20"> <img src='src/visualstudiocode.svg' width="30" height="20"> <img src='src/pandas.svg' width="30" height="20"> <img src='src/tensorflow.svg' width="30" height="20"> <img src='src/plotly.svg' width="30" height="20"> <img src='src/keras.svg' width="30" height="20">
  
 App creation libraries :
 
