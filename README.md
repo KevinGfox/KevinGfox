@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Kevin. Welcome to my github.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" height="200"/>
