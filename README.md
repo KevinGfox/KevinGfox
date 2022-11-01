@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" height="200"/>
 </div>
 
-Langage programmation et
+Programmation et
 outils de visualisation :
 
 <img src='src/python.svg' width="30" height="20"> <img src='src/visualstudiocode.svg' width="30" height="20"> <img src='src/pandas.svg' width="30" height="20"> <img src='src/tensorflow.svg' width="30" height="20"> <img src='src/plotly.svg' width="30" height="20"> <img src='src/keras.svg' width="30" height="20">
