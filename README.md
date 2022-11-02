@@ -7,15 +7,15 @@
 Programmation et
 outils de visualisation :
 
-<img src='src/python.svg' width="30" height="20"> <img src='src/visualstudiocode.svg' width="30" height="20"> <img src='src/pandas.svg' width="30" height="20"> <img src='src/tensorflow.svg' width="30" height="20"> <img src='src/plotly.svg' width="30" height="20"> <img src='src/keras.svg' width="30" height="20">
+<img src='src/python.svg' width="50" height="40"> <img src='src/visualstudiocode.svg' width="50" height="40"> <img src='src/pandas.svg' width="50" height="40"> <img src='src/tensorflow.svg' width="50" height="40"> <img src='src/plotly.svg' width="50" height="40"> <img src='src/keras.svg' width="50" height="40">
  
 Déploiement et services cloud :
 
-<img src='src/docker.svg' width="30" height="20"> <img src='src/heroku.svg' width="30" height="20"> <img src='src/aws.svg' width="30" height="20"> <img src='src/mlflow.svg' width="30" height="20"> <img src='src/fastapi.svg' width="30" height="20"> <img src='src/streamlit.svg' width="30" height="20">
+<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/aws.svg' width="50" height="40"> <img src='src/mlflow.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
 
 Big data : 
 
-<img src='src/apachespark.svg' width="30" height="20"> <img src='src/databricks.svg' width="30" height="20"> 
+<img src='src/apachespark.svg' width="50" height="40"> <img src='src/databricks.svg' width="50" height="40"> 
 
 
 I’m currently working as a freelancer for Jedha Bootcamp and i'm looking for new projects in 2023..
