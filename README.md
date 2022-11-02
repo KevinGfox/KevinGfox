@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kevin. Welcome to my github.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
 
 Programmation et
