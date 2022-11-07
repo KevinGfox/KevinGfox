@@ -22,3 +22,5 @@ I’m currently working as a freelancer for Jedha Bootcamp and i'm looking for n
 
 > Here is my linkedIn profile :[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-goupil-5a74a891/)
 &nbsp;
+
+[![codewars](https://www.codewars.com/users/kevingfox/badges/micro)]
