@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 </div>
 
-Data programing & visualization tools:
+Data programming & visualization tools:
 
 <img src='src/python.svg' width="50" height="40"> <img src='src/visualstudiocode.svg' width="50" height="40"> <img src='src/pandas.svg' width="50" height="40"> <img src='src/tensorflow.svg' width="50" height="40"> <img src='src/plotly.svg' width="50" height="40"> <img src='src/keras.svg' width="50" height="40">
  
