@@ -20,7 +20,7 @@ Big data:
 
 
 
-I’m currently working at Luna [!Luna](https://www.luna-endometriose.com/)
+I’m currently working at Luna [Luna](https://www.luna-endometriose.com/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-goupil-5a74a891/)
 ![codewars](https://www.codewars.com/users/kevingfox/badges/micro)
