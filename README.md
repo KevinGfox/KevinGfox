@@ -43,6 +43,7 @@ Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 
 
+
 -------------------------------------------------------------------------------------------------------------
 
 I’m currently working at [Luna](https://www.luna-endometriose.com/)
