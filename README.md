@@ -33,8 +33,9 @@ Big data:
 <img src='src/apachespark.svg' width="50" height="40"> <img src='src/databricks.svg' width="50" height="40"> 
 
 Design:
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6).
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white).
+
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 
 
 
