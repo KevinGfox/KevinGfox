@@ -26,7 +26,7 @@ Deployment & cloud services:
 
 Big data: 
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
 
 Data colab:
 
