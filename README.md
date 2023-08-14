@@ -14,16 +14,27 @@ Data programming & visualization tools:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white).
 
 <img src='src/pandas.svg' width="50" height="40"> <img src='src/tensorflow.svg' width="50" height="40"> <img src='src/plotly.svg' width="50" height="40"> <img src='src/keras.svg' width="50" height="40">
  
 Deployment & cloud services:
 
-<img src='src/docker.svg' width="50" height="40"> <img src='src/heroku.svg' width="50" height="40"> <img src='src/aws.svg' width="50" height="40"> <img src='src/mlflow.svg' width="50" height="40"> <img src='src/fastapi.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-003F8C?style=flat-square&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
+![FastApi](https://img.shields.io/badge/Fastapi-00C7B7?style=flat-square&logo=Fastapi&logoColor=white)
+
+<img src='src/mlflow.svg' width="50" height="40"> <img src='src/streamlit.svg' width="50" height="40">
 
 Big data: 
 
 <img src='src/apachespark.svg' width="50" height="40"> <img src='src/databricks.svg' width="50" height="40"> 
+
+Design:
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6).
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white).
 
 
 
