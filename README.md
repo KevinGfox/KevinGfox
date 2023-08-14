@@ -42,8 +42,9 @@ Design:
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+<div id="header" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={KevinGfox}&theme=blue-green" width="300" height="200"/>
+</div>
 
 -------------------------------------------------------------------------------------------------------------
 
