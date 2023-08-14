@@ -24,13 +24,11 @@ Deployment & cloud services:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
 ![FastApi](https://img.shields.io/badge/Fastapi-00C7B7?style=flat-square&logo=Fastapi&logoColor=white)
 
-Big data: 
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
-
-Data colab:
+Data management & Big data:
 
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logo=dataiku&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
 
 Office:
 
