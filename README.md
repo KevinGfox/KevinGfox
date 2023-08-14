@@ -43,7 +43,7 @@ Design:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={KevinGfox}&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 -------------------------------------------------------------------------------------------------------------
 
