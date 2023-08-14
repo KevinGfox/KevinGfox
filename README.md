@@ -36,8 +36,8 @@ Office:
 
 ![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=flat-squarege&logo=prezi&logoColor=white)
 
 Design:
 
