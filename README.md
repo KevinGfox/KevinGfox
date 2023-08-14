@@ -32,6 +32,12 @@ Data colab:
 
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat-square&logo=dataiku&logoColor=white)
 
+Office:
+
+![Microsoft](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
 
 Design:
 
