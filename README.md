@@ -8,7 +8,14 @@
 
 Data programming & visualization tools:
 
-<img src='src/python.svg' width="50" height="40"> <img src='src/visualstudiocode.svg' width="50" height="40"> <img src='src/pandas.svg' width="50" height="40"> <img src='src/tensorflow.svg' width="50" height="40"> <img src='src/plotly.svg' width="50" height="40"> <img src='src/keras.svg' width="50" height="40">
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+<img src='src/pandas.svg' width="50" height="40"> <img src='src/tensorflow.svg' width="50" height="40"> <img src='src/plotly.svg' width="50" height="40"> <img src='src/keras.svg' width="50" height="40">
  
 Deployment & cloud services:
 
