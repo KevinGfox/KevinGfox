@@ -58,7 +58,7 @@ Design:
 
 -------------------------------------------------------------------------------------------------------------
 
-I’m currently working at [Luna](https://www.luna-endometriose.com/)
+With a scientific background, I know how to stay at the cutting edge of technology. Sagacious and eager for new discoveries I am looking for a tech company on a human scale.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-goupil-5a74a891/)
 ![codewars](https://www.codewars.com/users/kevingfox/badges/micro)
