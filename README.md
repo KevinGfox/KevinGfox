@@ -9,6 +9,8 @@ I have experiences in teaching data science & engineering courses in a bootcamp 
 
 Sagacious and eager for new discoveries I am currently working for the [Technopole Orléans](https://www.labia-loirevalley.fr/).
 
+My current projects are about agentic systems.
+
 
 ## 🛠 Tech skills
 
