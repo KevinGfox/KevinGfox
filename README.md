@@ -9,7 +9,7 @@ I have experiences in teaching data science & engineering courses in a bootcamp 
 
 Sagacious and eager for new discoveries I am currently working for the [Technopole Orléans](https://www.labia-loirevalley.fr/).
 
-My current projects are about agentic systems.
+My current main project is Previzo, a frugal AI system capable of predicting low water levels.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-goupil/)
